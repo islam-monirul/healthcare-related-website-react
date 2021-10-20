@@ -22,5 +22,29 @@
           "details" : "Dental sealant is a thin, plastic coating painted on the chewing surfaces of teeth -- usually the back teeth (the premolars and molars) -- to prevent tooth decay. The sealant quickly bonds into the depressions and grooves of the teeth, forming a protective shield over the enamel of each tooth.",
           "thumbnails" : "/images/service-3.png",
           "mainImage" : "/images/3_1.jpeg"
+     },
+     {
+          "id" : 4,
+          "name" : "Complete Dentistry",
+          "shortDescription" : "We provide best quality Dental Treatment. All the work is conducted by specialist doctors.",
+          "details" : "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area.",
+          "thumbnails" : "/images/service-4.png",
+          "mainImage" : "/images/4_1.jpeg"
+     },
+     {
+          "id" : 5,
+          "name" : "Regular Dental",
+          "shortDescription" : "We provide best quality Dental Treatment. All the work is conducted by specialist doctors.",
+          "details" : "It is really important for everyone to check their teeth once in a month. In this way if there comes any problem you will be able to find out that and solve that instantly.",
+          "thumbnails" : "/images/service-5.png",
+          "mainImage" : "/images/5_1.jpeg"
+     },
+     {
+          "id" : 6,
+          "name" : "Cavity Checkup",
+          "shortDescription" : "We provide best quality Dental Treatment. All the work is conducted by specialist doctors.",
+          "details" : "It is really important for everyone to check their teeth once in a month. If there's any cavity they will be able to find out and solve it . In this way if there comes any problem you will be able to find out that and solve that instantly.",
+          "thumbnails" : "/images/service-6.png",
+          "mainImage" : "/images/6_1.jpeg"
      }
 ]
