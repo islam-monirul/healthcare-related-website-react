@@ -22,10 +22,6 @@ const ServiceDetails = () => {
      }
 
      console.log(service);
-     
-
-     
-     
 
      return (
           <div>
