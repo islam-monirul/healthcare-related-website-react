@@ -4,19 +4,27 @@
   font-family: "Josefin Sans", sans-serif;
 }
 
-Button a,
-Button a:hover {
-  color: #fff;
-}
-
 a:link,
 a:visited {
   text-decoration: none;
 }
 
-.custom-button-color {
+Button .custom-button-color {
   background-color: #42b2fc;
   border: none;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #42b2fc;
+}
+
+Button a,
+Button a:hover {
+  color: #fff;
 }
 
 .custom-button-color:hover {

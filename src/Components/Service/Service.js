@@ -1,6 +1,7 @@
 import React from 'react';
 import { Button, Card, Col } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
+import './Service.css';
 
 const Service = (props) => {
      // destructure
@@ -11,13 +12,13 @@ const Service = (props) => {
 
      return (
           <Col>
-               <Card className="h-100">
-                    <Card.Img src={thumbnails} className="img-fluid w-50"/>
+               <Card className="h-100 bg-transparent serviceCard">
+                    <Card.Img src={thumbnails} className="img-fluid"/>
                     <Card.Body>
                          <h5 className="fw-bold">{name}</h5>
                          <p className="text-secondary">{shortDescription}</p>
                     </Card.Body>
-                    <Card.Footer className="bg-white py-3">
+                    <Card.Footer className="bg-transparent border-0">
                          <Button className="custom-button-color">
                               <NavLink to={url}>Learn More</NavLink>
                          </Button>
