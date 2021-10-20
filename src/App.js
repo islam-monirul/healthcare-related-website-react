@@ -33,9 +33,9 @@ function App() {
                     </Route>
 
                     {/* all private routing */}
-                    <Route path="/service/:serviceID">
+                    <PrivateRoute path="/service/:serviceID">
                         <ServiceDetails></ServiceDetails>
-                    </Route>
+                    </PrivateRoute>
                     <PrivateRoute path="/profile">
                         <Profile></Profile>
                     </PrivateRoute>
