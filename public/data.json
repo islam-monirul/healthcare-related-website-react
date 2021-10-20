@@ -4,23 +4,23 @@
           "name" : "Oral Surgery",
           "shortDescription" : "We provide best quality Oral surgery. All the surgery is conducted by specialist doctors.",
           "details" : "Oral surgery refers to any surgical procedure performed in or around your mouth and jaw, usually by a dental specialist who’s trained to perform certain kinds of oral surgeries. We provide surgeries like Impacted wisdom teeth, Gum graft, Tooth implants, Maxillofacial surgery, Root canal, Jaw and teeth repair following an injury",
-          "thumbnails" : "./images/service-1.png",
-          "mainImage" : "./images/1_1.jpeg"
+          "thumbnails" : "/images/service-1.png",
+          "mainImage" : "/images/1_1.jpeg"
      },
      {
           "id" : 2,
           "name" : "Dental Implantation",
           "shortDescription" : "We provide best quality Dental Implantation. All the work is conducted by specialist doctors.",
           "details" : "Dental implants can be used to replace a single tooth, several teeth, or all of the teeth. The goal of teeth replacement in dentistry is to restore function as well as esthetics. A dental surgeon examines the area to be considered for the dental implant and makes a clinical assessment of whether the patient is a good candidate for a dental implant.",
-          "thumbnails" : "./images/service-2.png",
-          "mainImage" : "./images/2_1.jpeg"
+          "thumbnails" : "/images/service-2.png",
+          "mainImage" : "/images/2_1.jpeg"
      },
      {
           "id" : 3,
           "name" : "Dental Sealants",
           "shortDescription" : "We provide best quality Dental Sealants. All the work is conducted by specialist doctors.",
           "details" : "Dental sealant is a thin, plastic coating painted on the chewing surfaces of teeth -- usually the back teeth (the premolars and molars) -- to prevent tooth decay. The sealant quickly bonds into the depressions and grooves of the teeth, forming a protective shield over the enamel of each tooth.",
-          "thumbnails" : "./images/service-3.png",
-          "mainImage" : "./images/3_1.jpeg"
+          "thumbnails" : "/images/service-3.png",
+          "mainImage" : "/images/3_1.jpeg"
      }
 ]

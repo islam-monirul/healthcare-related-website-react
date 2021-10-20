@@ -4,6 +4,21 @@
   font-family: "Josefin Sans", sans-serif;
 }
 
-a:link {
+Button a,
+Button a:hover {
+  color: #fff;
+}
+
+a:link,
+a:visited {
   text-decoration: none;
+}
+
+.custom-button-color {
+  background-color: #42b2fc;
+  border: none;
+}
+
+.custom-button-color:hover {
+  background-color: #000;
 }
